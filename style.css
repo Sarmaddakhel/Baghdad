@@ -1,0 +1,59 @@
+css
+/* * {
+    outline: 2px solid red;
+} */
+
+body{
+    margin: auto;
+}
+.upper{
+    height: 25px;
+    padding-left: 20px;
+    background-color: blanchedalmond;
+    display: flex;
+    gap:20px;
+}
+.cityname{
+    text-align: center;
+    font-weight: bolder;
+    font-family:Impact, Brush Script 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.second-part{
+    height: 600px;
+}
+.speach{
+    background-color: bisque; 
+    font-size: large;
+    margin: 20px;
+    font-weight: 500;
+}
+.images-about-thecity{
+    display: flex;
+    justify-content: space-around;
+}
+.qoute-part{
+    height: 400px;
+    background-color: gainsboro;
+    
+}
+
+.copy-right{
+    background-color: lightgoldenrodyellow;
+    height: 70px;
+    text-align: center;
+    padding-top:8px;
+}
+/* .copy-right{
+    text-align: center;
+    padding-top:8px;
+} */
+.qoute{
+    font-family:cursive;
+    padding: 100px;
+    margin-left: 100px;
+}
+.Al-Mutanabbi{
+    font-weight: bolder;
+    font-family: cursive;
+    margin-left: 1500px;
+}
